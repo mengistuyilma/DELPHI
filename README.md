@@ -9,3 +9,4 @@ The notebook code was written with Mathematica 12.1 but should work with any ver
 We also included a python implementation using scipy.solve_ivp. It has been tested on Python 3.7.
 
 Documentation is contained in the pdf document: DELPHI_Explainer.
+Use as excersise 
